@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MainActivity!</string>
+    <string name="app_name">FGAndHandAPL</string>
+    <string name="run_bool_task">Run (Boolean)</string>
+    <string name="run_string_task">Run (String)</string>
+    <string name="task_working">Working (%1$d)...</string>
+    <string name="task_starting">Starting...</string>
+    <string name="task_cancelled">Task is cancelled by user</string>
+    <string name="task_completed">Task is completed with result (%1$s) of type (%2$s)</string>
+    <string name="actionbar_activity_not_found">Failed to open intent...</string>
+
+</resources>
